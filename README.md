@@ -102,8 +102,3 @@ You may include one of the following (choose based on your intent):
 - **MIT License (Attribution encouraged)**
 - **CC BY 4.0 (Attribution required)**
 - **Custom license (Use allowed, ownership cannot be claimed)**
-
----
-
-Want me to revise this to match your tone, add branding, or generate repo scaffolding?  
-Just say **“Refine the README”** or **“Add repo structure.”**
