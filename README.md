@@ -90,7 +90,7 @@ TC-EBC is ideal for:
 
 ## Attribution
 
-TC-EBC is an original prompt-structuring method created by **[Your Name]**.  
+TC-EBC is an original prompt-structuring method created by **Greg Huntoon**.  
 If you use TC-EBC in your work, tools, articles, workshops, or repos, please credit the creator.
 
 ---
